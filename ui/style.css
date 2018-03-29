@@ -1,22 +1,22 @@
 body {
-    font-family: times new roman;
-    background-color: blue;
+    font-family: sans-sarif;
+    background-color: red;
     margin-top: 75px;
 }
 
 .center {
-    text-align: right;
+    text-align: center;
 }
 
 .text-big {
-    font-size: 400%;
+    font-size: 600%;
 }
 
 .bold {
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .img-medium {
-    height: 200px;
+    height: 400px;
 }
 
